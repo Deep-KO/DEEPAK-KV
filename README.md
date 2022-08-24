@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data and coding
 - 🌱 I’m currently learning Data Science and programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.You can reach me Git
